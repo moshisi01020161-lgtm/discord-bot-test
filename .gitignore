@@ -1,0 +1,4 @@
+.env
+pinned_data.json
+__pycache__/
+*.pyc
